@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/JammalAdeyemi">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+ Plex+Mono&size=18&duration=2500&pause=100&multiline=true&width=800&height=80&lines=Jammal+Omotoyosi+Adeyemi;Data+Scientist+%7C+Machine+Learning+Engineer+%7C+Jnr+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+ Plex+Mono&size=18&duration=2500&pause=100&multiline=true&width=800&height=80&lines=Jammal+Omotoyosi+Adeyemi;Data+Scientist+%7C+Jnr+Software+Engineer" alt="Typing SVG" />
 </a>
 </p>
 
@@ -9,7 +9,7 @@
 </h3>
   
 <h2 align="center">
-    I'm a Data Scientist 📈, Machine Learning Engineer ⚒️👨🏽‍💻, and a Data Engineer Enthusiast 💻!
+    I'm a Data Scientist 📈, and a Data Engineer Enthusiast 💻!
 </h2> 
 
 <p align="center">
@@ -54,7 +54,7 @@ ___
 
 ## 🖥️ My Projects
 <table>
-<tr><th>Machine Learning </th><th>Misc Projects</th></tr>
+<tr><th>Data Science </th><th>Misc Projects</th></tr>
 <tr><td>
 
 |Title | Technologies|
