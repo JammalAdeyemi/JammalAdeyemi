@@ -9,7 +9,7 @@
 </h3>
   
 <h2 align="center">
-    I'm a Data Scientist 📈, and a Data Engineer Enthusiast 💻!
+    I'm a Data Analyst 📈 & Scientist 💻!
 </h2> 
 
 <p align="center">
