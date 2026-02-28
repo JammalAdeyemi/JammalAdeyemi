@@ -1,55 +1,36 @@
 # Jammal Omotoyosi Adeyemi
 
-Data & Analytics Graduate at NatWest | Data Engineering 
-
----
+Analytics Engineer
 
 ## About Me
 
-I work across data engineering, analytics, and risk modelling in regulated financial environments. My focus is building reliable data pipelines, improving data quality, and translating ambiguous business requirements into production-ready solutions that stakeholders can trust.
+I work across data engineering and analytics in regulated financial environments, building reliable pipelines and delivering structured data solutions that support risk, compliance, and commercial teams. My focus is on production-grade data workflows, data quality, and translating complex business requirements into scalable, maintainable systems.
 
-I am particularly interested in:
-- Data Engineering & Orchestration
-- Risk & Regulatory Data
-- NLP & Interpretable AI
-- Scalable analytical systems
+## Core Experience
 
----
+- Designing and maintaining Airflow DAGs for ingestion and transformation
+- Working with Snowflake for data warehousing and analytical reporting
+- Building and troubleshooting StreamSets pipelines for large-scale data loads
+- Using PySpark and Scala for distributed data processing
+- Managing schema changes, data validation, and quality controls
+- Supporting time-sensitive regulatory and financial crime datasets
 
 ## Tech Stack
 
-**Languages:** Python, SQL  
-**Data Platforms:** Snowflake, Airflow, AWS S3  
-**Analytics & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, HuggingFace  
+**Languages:** Python, SQL, Scala  
+**Big Data & Processing:** PySpark, Spark, StreamSets  
+**Orchestration:** Apache Airflow  
+**Data Platforms:** Snowflake, AWS S3  
 **Engineering:** Git, CI/CD, Docker  
-**Visualisation:** Tableau  
-
----
-
-## Selected Projects
-
-### Cardiovascular Disease Risk Prediction
-End-to-end ML pipeline with model evaluation and deployment using Streamlit.  
-Focus: classification modelling, feature engineering, deployment.
-
-### Big Patent Summarisation (NLP)
-Fine-tuned transformer model for long-document summarisation.  
-Focus: NLP pipeline design, tokenisation strategies, evaluation.
-
-### Credit Card Fraud Detection
-Built and evaluated fraud detection models with AWS integration.  
-Focus: model evaluation, pipeline integration, cloud deployment.
-
----
+**Analytics & Visualisation:** Pandas, Tableau  
 
 ## Current Focus
 
-- Designing Airflow DAGs for production ingestion
-- Schema validation and data quality checks
-- Pipeline reliability in regulated systems
-- Improving traceability and documentation in data workflows
-
----
+- Pipeline reliability and observability
+- Data quality frameworks in regulated environments
+- Scalable transformation logic
+- Interpretable analytics in risk contexts
 
 ## Connect
-LinkedIn: https://www.linkedin.com/in/jammaladeyemi/
+
+LinkedIn: www.linkedin.com/in/jammaladeyemi 
