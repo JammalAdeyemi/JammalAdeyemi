@@ -9,7 +9,7 @@
 </h3>
   
 <h2 align="center">
-    I'm a Data Analyst 📈 & Scientist 💻!
+    I'm a Data Engineer 💻!
 </h2> 
 
 <p align="center">
@@ -48,8 +48,6 @@ ___
 ![](https://img.shields.io/badge/Tools-AWSSageMaker-informational?style=flat&logo=Amazon-AWS&color=FF9900)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=2496ED)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&color=326CE5)
-
-
 
 
 ## 🖥️ My Projects
